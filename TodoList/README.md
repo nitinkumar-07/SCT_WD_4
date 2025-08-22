@@ -27,6 +27,10 @@ It allows users to **add, edit, and remove tasks** with a clean UI and mobile-fr
 
 ---
 
+## 🔗 Live Demo
+Check out the live version of the project here:  
+👉 [My To Do List - Live] : https://todo-list-js0.netlify.app/
+
 ## 🔮 Future Enhancements
 
 ✅ Mark tasks as completed (with strikethrough)
@@ -37,4 +41,4 @@ It allows users to **add, edit, and remove tasks** with a clean UI and mobile-fr
 
 ✅ Drag & drop reordering
 
- # Follow me on LinkedIn🚀 : https://www.linkedin.com/in/nitin-kumar-491813336/
+ ## Follow me on LinkedIn🚀 : https://www.linkedin.com/in/nitin-kumar-491813336/
