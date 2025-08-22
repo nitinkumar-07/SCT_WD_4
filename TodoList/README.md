@@ -23,7 +23,18 @@ It allows users to **add, edit, and remove tasks** with a clean UI and mobile-fr
 
 ## 📸 Screenshots
 
-![ Screenshot] (<img width="1913" height="909" alt="Screenshot 2025-08-22 082225" src="https://github.com/user-attachments/assets/f71aa44c-20c3-442c-882b-75c11528226d" />
-)
+![ Screenshot] <img width="1913" height="909" alt="Screenshot 2025-08-22 082225" src="https://github.com/user-attachments/assets/f71aa44c-20c3-442c-882b-75c11528226d" />
 
 ---
+
+## 🔮 Future Enhancements
+
+✅ Mark tasks as completed (with strikethrough)
+
+✅ Store todos in localStorage
+
+✅ Dark/Light mode toggle
+
+✅ Drag & drop reordering
+
+ # Follow me on LinkedIn🚀 : https://www.linkedin.com/in/nitin-kumar-491813336/
